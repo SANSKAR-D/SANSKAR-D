@@ -2,7 +2,7 @@
 
 🎓 CS Undergrad @ MNNIT Allahabad ('29) | 9.14 SGPA
 💻 Passionate about Systems Programming, OS Internals & Competitive Programming
-🔍 Currently exploring: Machine Learning & Cybersecurity
+🔍 Currently exploring: Machine Learning 
 
 ---
 
