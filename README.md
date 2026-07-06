@@ -17,7 +17,6 @@
 - ⚔️ **Codeforces Specialist** | **LeetCode Knight** (550+ problems solved)
 - 🤖 Currently building an **Agentic Chatbot** — an autonomous, tool-using LLM agent
 - 🧠 Deep interest in **GenAI / RAG pipelines**, systems programming, and competitive programming
-- 🌱 Prepping for **GSoC 2027** with NumFOCUS / INCF
 - 📫 Reach me: **sethsanskar856@gmail.com**
 
 <br/>
@@ -40,7 +39,7 @@
 
 ### 🤖 Agentic Chatbot *(current)*
 An autonomous LLM agent capable of tool use, multi-step reasoning, and task execution — built with LangChain / LangGraph.
-🔗 [Repo](https://github.com/SANSKAR-D)
+🔗 [Repo](https://github.com/SANSKAR-D/chatbot-agent)
 
 ### ⚔️ KnightCode — Full-Stack Competitive Coding Platform
 A from-scratch competitive programming judge with a **custom Docker-based code execution engine** (no Judge0), parallel sandboxed test execution, a 3D animated landing page (Three.js + React Three Fiber), and a Monaco-powered editor.
@@ -87,19 +86,6 @@ Native Android quiz app with real-time scoring.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SANSKAR-D&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SANSKAR-D&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANSKAR-D&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
 </div>
 
