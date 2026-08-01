@@ -14,7 +14,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech CSE @ **MNNIT Allahabad** (Batch of 2029) — CGPA **8.98**
-- ⚔️ **Codeforces Specialist** | **LeetCode Knight** (550+ problems solved)
+- ⚔️ **Codeforces Specialist** | **LeetCode Knight** (600+ problems solved)
 - 🤖 Currently building an **Agentic Chatbot** — an autonomous, tool-using LLM agent
 - 🧠 Deep interest in **GenAI / RAG pipelines**, systems programming, and competitive programming
 - 📫 Reach me: **sethsanskar856@gmail.com**
@@ -28,8 +28,8 @@
 | Platform | Rating | Handle |
 |:---:|:---:|:---:|
 | ![Codeforces](https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white) | Max: Specialist | [Sanskar__G](https://codeforces.com/profile/Sanskar__G) |
-| ![LeetCode](https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black) | 550+ Solved | [sanskarguptadsa](https://leetcode.com/u/sanskarguptadsa/) |
-| ![CodeChef](https://img.shields.io/badge/CodeChef-2★-5B4638?style=for-the-badge&logo=codechef&logoColor=white) | 1400+ | [sanskar_d](https://www.codechef.com/users/sanskar_d) |
+| ![LeetCode](https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black) | 600+ Solved | [sanskarguptadsa](https://leetcode.com/u/sanskarguptadsa/) |
+| ![CodeChef](https://img.shields.io/badge/CodeChef-2★-5B4638?style=for-the-badge&logo=codechef&logoColor=white) | 1500+ | [sanskar_d](https://www.codechef.com/users/sanskar_d) |
 
 </div>
 
