@@ -21,7 +21,7 @@
 
 <br/>
 
-## 🏆 Competitive Programming
+## 🎯 Competitive Programming
 
 <div align="center">
 
@@ -31,6 +31,19 @@
 | ![LeetCode](https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black) | 600+ Solved | [sanskarguptadsa](https://leetcode.com/u/sanskarguptadsa/) |
 | ![CodeChef](https://img.shields.io/badge/CodeChef-2★-5B4638?style=for-the-badge&logo=codechef&logoColor=white) | 1500+ | [sanskar_d](https://www.codechef.com/users/sanskar_d) |
 
+</div>
+
+<br/>
+
+<div align="center">
+  
+## 🏆 Achievements
+
+| Event                                       | Result                    | Details                          |
+| --------------------------------------------- | -------------------------- | ----------------------------------- |
+| **Turing's Playground**, MNNIT                | 🏆 Best First Year Team    | AlphaGo-Lite — custom PUCT/MCTS Go engine with heuristic policy & value proxy |
+| **SoftAthalon** — Avishkar, MNNIT             | 🥉 3rd Place                | DSA + Technical Interview           |
+| **Trail Blitz** — Robomania, MNNIT            | 🥉 3rd Place                | Line Follower Bot competition       |
 </div>
 
 <br/>
