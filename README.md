@@ -15,7 +15,7 @@
 
 - 🎓 B.Tech CSE @ **MNNIT Allahabad** (Batch of 2029) — CGPA **8.98**
 - ⚔️ **Codeforces Specialist** | **LeetCode Knight** (600+ problems solved)
-- 🤖 Currently building an **Agentic Chatbot** — an autonomous, tool-using LLM agent
+- 🤖 Built an **Agentic Chatbot** — an autonomous, tool-using LLM agent
 - 🧠 Deep interest in **GenAI / RAG pipelines**, systems programming, and competitive programming
 - 📫 Reach me: **sethsanskar856@gmail.com**
 
@@ -37,29 +37,34 @@
 
 ## 🚀 What I'm Building
 
-### 🤖 Agentic Chatbot *(current)*
-An autonomous LLM agent capable of tool use, multi-step reasoning, and task execution — built with LangChain / LangGraph.
-🔗 [Repo](https://github.com/SANSKAR-D/chatbot-agent)
+### 🤖 Agentic AI ChatBot & Blog Generator
+Full-stack, multi-agent AI application built with FastAPI, LangGraph, React, and PostgreSQL.
+- Hybrid RAG search combining FAISS (dense) and BM25 (sparse) via Reciprocal Rank Fusion
+- Multi-agent blog generation pipeline (map-reduce/fan-out-fan-in) with parallel section-writing agents and web research via Tavily
+- Automated inline image generation using Cloudflare Workers AI
+- Dual-memory system: short-term (per-thread) and long-term (cross-thread) memory via LangGraph + PostgreSQL
+- Guardrails layer for prompt-injection/NSFW filtering, hallucination checks, and self-correction loops
+
+🔗 [View Repository](https://github.com/SANSKAR-D/chatbot-agent)
 
 ### ⚔️ KnightCode — Full-Stack Competitive Coding Platform
-A from-scratch competitive programming judge with a **custom Docker-based code execution engine** (no Judge0), parallel sandboxed test execution, a 3D animated landing page (Three.js + React Three Fiber), and a Monaco-powered editor.
-`React` `Node.js` `MongoDB` `Docker` `Three.js` `JWT`
-🔗 [Repo](https://github.com/SANSKAR-D/Web-Dev-Projects/tree/main/KnightCode)
+Full-stack platform for live head-to-head coding battles.
+- MERN stack with Socket.io for real-time gameplay and a Docker-based judge engine
+- React frontend (Vite, Framer Motion, Three.js/React Three Fiber, Monaco Editor)
+- Built through hands-on learning of the underlying stack — Node/Express, MongoDB/Mongoose, JWT auth, and WebSockets
 
-### 🎥 YT RAG Assistant — Local AI Video Q&A
-A fully local RAG app for semantic Q&A over YouTube transcripts — zero API cost, powered entirely by Ollama + ChromaDB.
-`FastAPI` `LangChain` `Ollama` `ChromaDB` `React`
-🔗 [Repo](https://github.com/SANSKAR-D/youtube-rag-assistant)
+🔗 [View Repository](https://github.com/SANSKAR-D/Web-Dev-Projects/tree/main/KnightCode)
+
+### 🎥 YouTube RAG Assistant
+Retrieval-Augmented Generation app to chat with any YouTube video's content.
+- FastAPI + LangChain backend, Chroma vector DB, local inference via Ollama
+- Auto language handling: retrieves transcripts and answers in English regardless of source language
+- React + Vite frontend with a glassmorphic UI and smooth navigation
+
+🔗 [View Repository](https://github.com/SANSKAR-D/youtube-rag-assistant)
 
 ### 🌐 Portfolio Website
-Personal site with a live coding-stats API pulling real-time LeetCode & Codeforces data, server-side cached.
-`Next.js 14` `Three.js`
-🔗 [Repo](https://github.com/SANSKAR-D/Portfolio-Website)
-
-### 📱 Quizzon — Android Quiz App
-Native Android quiz app with real-time scoring.
-`Kotlin` `Android Studio`
-🔗 [Repo](https://github.com/SANSKAR-D/App-dev-projects)
+🔗 [View Repository](https://github.com/SANSKAR-D/Portfolio-Website)
 
 <br/>
 
@@ -70,16 +75,15 @@ Native Android quiz app with real-time scoring.
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
