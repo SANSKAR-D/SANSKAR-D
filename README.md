@@ -14,7 +14,7 @@
 
 B.Tech CSE @ **MNNIT Allahabad** (Batch of 2029) — CGPA **8.98**
 
-I write C++ for contests and Python/JS for systems I want to understand end to end. I'd rather know *why* a technique works than just that it does — which is how a tree-search assignment turned into a Go engine, and how "chat with a YouTube video" turned into a study of why naive transcript chunking throws away meaning.
+I write C++ for contests and Python/JS for systems I want to understand end to end. I'd rather know *why* a technique works than just that it does which is how a tree-search assignment turned into a Go engine, and how "chat with a YouTube video" turned into a study of why naive transcript chunking throws away meaning.
 
 **Codeforces Specialist** · **LeetCode Knight (700+)** · building agentic AI systems and real-time backends.
 
@@ -101,12 +101,12 @@ Chat with any YouTube video's content.
 <div align="center">
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Sanskar__G)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Knight%20%7C%20600%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sanskarguptadsa/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Knight%20%7C%20700%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sanskarguptadsa/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-2%E2%98%85%20%7C%201500%2B-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sanskar_d)
 
 </div>
 
-Weekly contests and upsolving. I maintain my own C++ contest template rather than copying one — DSU, sparse tables, policy-based sets, modular exponentiation, factorial/nCr precompute. Recently designed an original problem around sparse tables (*Maximum Price Swing*), to check whether I understood the structure well enough to build a problem on it and not just apply it.
+Weekly contests and upsolving. I maintain my own C++ contest template rather than copying one — DSU, sparse tables, policy-based sets, modular exponentiation, factorial/nCr precompute.
 
 <br/>
 
