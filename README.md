@@ -109,7 +109,20 @@ Chat with any YouTube video's content.
 Weekly contests and upsolving. I maintain my own C++ contest template rather than copying one — DSU, sparse tables, policy-based sets, modular exponentiation, factorial/nCr precompute.
 
 <br/>
+### Pokemon Vibes
+---
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/nandhusateesh/nandhusateesh/main/assets/bars.svg" alt="Animated bars" width="15" /> <i><b>My Coding Journey with Pokemon Aura</b></i>
+</p>
+
+<div align="center">
+  <img src="./assets/1.gif" alt="calm and ready to fight" width="450" />
+  <br>
+  <img src="./assets/2.gif" alt="Domination" width="450" />
+</div>
+
+<br/>
 ## Tech
 
 <div align="center">
