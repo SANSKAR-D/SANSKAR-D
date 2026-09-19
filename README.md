@@ -134,8 +134,7 @@ Weekly contests and upsolving. I maintain my own C++ contest template rather tha
 
 <br/>
 
-### The Developer's Ego
----
+## The Developer's Ego
 
 > *"My ego is my compass. To survive and evolve, I must take absolute responsibility for my own vision and devour my own despair. On this field, I am the protagonist of my own life."* <br>
 > — **Yoichi Isagi, Blue Lock**
