@@ -1,0 +1,12 @@
+<svg width="250" height="40" viewBox="0 0 250 40" xmlns="http://www.w3.org/2000/svg">
+  <!-- Dark background with red border -->
+  <rect width="250" height="40" fill="#0d1117" stroke="#33c5ffff" stroke-width="2" rx="4" />
+  
+  <!-- Nested SVG naturally clips the text without needing a clipPath ID -->
+  <svg x="5" y="5" width="240" height="30">
+    <text y="22" font-family="monospace" font-size="22" fill="#33c5ffff" font-weight="bold" letter-spacing="2">
+      Thanks for visiting, You are Great!                        
+      <animate attributeName="x" values="240; -500" dur="6s" repeatCount="indefinite" />
+    </text>
+  </svg>
+</svg>

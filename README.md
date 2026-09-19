@@ -12,17 +12,28 @@
 
 ## About
 
-B.Tech CSE @ **MNNIT Allahabad** (Batch of 2029) — CGPA **8.98**
+I am a **B.Tech Computer Science and Engineering** student at **MNNIT Allahabad** (Batch of 2029) with a passion for generative AI, and competitive programming. My core interests lie in building end-to-end systems, agentic AI pipelines, and real-time backends.
 
-I write C++ for contests and Python/JS for systems I want to understand end to end. I'd rather know *why* a technique works than just that it does which is how a tree-search assignment turned into a Go engine, and how "chat with a YouTube video" turned into a study of why naive transcript chunking throws away meaning.
+I write C++ for contests and Python/JS for systems I want to understand under the hood. I'd rather know *why* a technique works than just that it does which is how a tree-search assignment turned into a custom Go engine, and how building a "chat with a YouTube video" tool became a deep dive into why naive transcript chunking throws away meaning.
 
-**Codeforces Specialist** · **LeetCode Knight (700+)** · building agentic AI systems and real-time backends.
+**Codeforces Specialist** · **LeetCode Knight** · **CodeChef 2★ (1500+)**
+
+<br/>
+
+## Education
+
+- **B.Tech in Computer Science and Engineering**  
+  *Motilal Nehru National Institute of Technology (MNNIT) Allahabad, Prayagraj* | 2025 – Present | **CGPA: 8.98**
+- **Class XII (CBSE)**  
+  *Modern Public School, Jhansi, U.P.* | 2024 – 2025 | **Percentage: 93%**
+- **Class X (CBSE)**  
+  *Sun International School, Jhansi, U.P.* | 2022 – 2023 | **Percentage: 94.8%**
 
 <br/>
 
 ## What I'm building
 
-### Verora — Personal AI Assistant &nbsp;·&nbsp; *in progress*
+### Verora - Personal AI Assistant &nbsp;·&nbsp; *in progress*
 
 Agentic personal AI assistant built in Python
 
@@ -109,11 +120,10 @@ Chat with any YouTube video's content.
 Weekly contests and upsolving. I maintain my own C++ contest template rather than copying one — DSU, sparse tables, policy-based sets, modular exponentiation, factorial/nCr precompute.
 
 <br/>
-### Pokemon Vibes
----
 
+## Pokemon Vibes
 <p align="left">
-  <img src="https://raw.githubusercontent.com/nandhusateesh/nandhusateesh/main/assets/bars.svg" alt="Animated bars" width="15" /> <i><b>My Coding Journey with Pokemon Aura</b></i>
+  <img src="./assets/animated-bars.svg" alt="Animated bars" width="18" /> <i><b>My Coding Journey with Pokemon Aura</b></i>
 </p>
 
 <div align="center">
@@ -123,6 +133,15 @@ Weekly contests and upsolving. I maintain my own C++ contest template rather tha
 </div>
 
 <br/>
+
+### The Developer's Ego
+---
+
+> *"My ego is my compass. To survive and evolve, I must take absolute responsibility for my own vision and devour my own despair. On this field, I am the protagonist of my own life."* <br>
+> — **Yoichi Isagi, Blue Lock**
+
+<br>
+
 ## Tech
 
 <div align="center">
@@ -142,4 +161,25 @@ Weekly contests and upsolving. I maintain my own C++ contest template rather tha
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+</div>
+
+---
+<br>
+<div align="center">
+  <!-- LED Text Scroller -->
+  <img src="./assets/led-scroller.svg" alt="LED Thanks" />
+
+  <br>
+  
+  <!-- Greeting Text -->
+  <p><b>Thanks for visiting my profile! Have a great day! 🌟</b></p>
+  
+  <br>
+  
+  <!-- Anime Spirit Footer with Custom Animators -->
+  <p>
+    <img src="./assets/sparkle.svg" alt="sparkle" width="40" />
+    &nbsp;&nbsp;<i>Happy Coding with Pokemon Aura!</i>&nbsp;&nbsp;
+    <img src="./assets/sparkle.svg" alt="sparkle" width="40" />
+  </p>
 </div>
